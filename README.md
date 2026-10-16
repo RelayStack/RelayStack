@@ -2,7 +2,7 @@
 
 **Astro websites and SEO for Swiss SMEs** — fast static sites on Cloudflare, built to be found by Google *and* cited by AI assistants.
 
-Based in Basel. I build and maintain the sites myself — no page builders, no agency layers, no WordPress plugin bill.
+I build and maintain the sites myself — no page builders, no agency layers, no WordPress plugin bill.
 
 **→ [relaystack.ch](https://relaystack.ch) · hello@relaystack.ch**
 
@@ -25,8 +25,8 @@ Based in Basel. I build and maintain the sites myself — no page builders, no a
 
 Client repositories are private — live sites on request.
 
-- **24h Schlüsseldienst & Schreinerei**, Basel — Astro static site, local schema, emergency-intent landing pages.
-- **Medical-aesthetic studio**, Muttenz — booking-focused service site, fast on mobile, local citations.
+- **24h Schlüsseldienst & Schreinerei** — Astro static site, local schema, emergency-intent landing pages.
+- **Medical-aesthetic studio** — booking-focused service site, fast on mobile, local citations.
 - **Rail service partner** — corporate site on Cloudflare Pages.
 
 ## How I work
