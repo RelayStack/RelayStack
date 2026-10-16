@@ -1,10 +1,10 @@
 # RelayStack
 
-**Astro websites and SEO for Swiss SMEs** — fast static sites on Cloudflare, built to be found by Google *and* cited by AI assistants.
+**Astro websites and SEO visibility for the German-speaking market** — fast static sites, built to be found by Google *and* cited by AI assistants.
 
 I build and maintain the sites myself — no page builders, no agency layers, no WordPress plugin bill.
 
-**→ Telegram: [@relaystack](https://t.me/relaystack)**
+**→ [relaystack.github.io](https://relaystack.github.io/) · Telegram: [@relaystack](https://t.me/relaystack)**
 
 ## Services
 
