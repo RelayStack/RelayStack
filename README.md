@@ -4,7 +4,7 @@
 
 I build and maintain the sites myself — no page builders, no agency layers, no WordPress plugin bill.
 
-**→ [relaystack.ch](https://relaystack.ch) · hello@relaystack.ch**
+**→ Telegram: [@relaystack](https://t.me/relaystack)**
 
 ## Services
 
@@ -35,4 +35,4 @@ Fixed-scope packages in CHF rather than open-ended hourly. A typical build cover
 
 I write about what works and what doesn't. `llms.txt`, for example, does nothing for Google — it's for AI assistants. I'd rather say that up front than sell you a ranking trick.
 
-**Available for new projects → hello@relaystack.ch**
+**Available for new projects → [message me on Telegram](https://t.me/relaystack)**
